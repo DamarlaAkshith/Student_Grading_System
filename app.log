@@ -1,0 +1,6 @@
+2023-04-05 11:24:31,703 - loggerinstance - ERROR - name 'json' is not defined
+2023-04-05 11:26:10,528 - loggerinstance - ERROR - name 'json' is not defined
+2023-04-05 11:37:33,721 - loggerinstance - ERROR - 'dict' object is not callable
+2023-04-05 11:39:35,609 - loggerinstance - ERROR - name 'data' is not defined
+2023-04-05 11:40:09,965 - loggerinstance - ERROR - name 'data' is not defined
+2023-04-05 11:40:21,669 - loggerinstance - INFO - Added student successfully
